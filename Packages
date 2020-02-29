@@ -55,13 +55,14 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.tripletaplock_1.0.0_iphoneos-arm.deb
-Size: 3654
-MD5sum: 89a10b2ce95cb0867e2fc3931b465cd7
-SHA1: a178f9e9671b6f2e64588594d10d3db33a6f8383
-SHA256: 70e385ecc1575d5547ba093eb7c065ad6302015a2844213d70c5a8b042c1aa03
+Size: 3690
+MD5sum: be4dd238b106b45bbd0a09ee82890443
+SHA1: dbabce6f118a71efd62055fcd3fcf93a583a1694
+SHA256: ffb2d5b559c9ea5fcc3935c7fcff8ba549cb3130f06615c02548457776393eb2
 Section: Tweaks
 Description: Tap 3 times to lock in HomeScreen.
 Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.tripletaplock
 Name: TripleTapLock
 
 Package: com.yourcompany.lockbrate
