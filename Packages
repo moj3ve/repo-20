@@ -15,6 +15,22 @@ Author: AohuiLiu <x345242281@outlook.com>
 Depicton: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.jbbattery
 Name: JbBattery
 
+Package: com.aohuiliu.keyboardnoswipe
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.keyboardnoswipe_0.0.1-3+debug_iphoneos-arm.deb
+Size: 5390
+MD5sum: 3d42af60e5ec9b7b2ae1bb91b87514fe
+SHA1: 2af6e2ac95e880c442781e809193a8d526c07c6c
+SHA256: dac0514591c467adeb3ba182cbdb7ca9b577d954edb937132af550353ebfc9f1
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: AohuiLiu <x345242281@outlook.com>
+Name: KeyBoardNoSwipe
+
 Package: com.aohuiliu.mytweak
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -31,6 +47,22 @@ Description: Tweak for myself. iPad statusbar, No page dots, Real 3D Touch, Remo
 Author: AohuiLiu <x345242281@outlook.com>
 Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.mytweak
 Name: MyTweak
+
+Package: com.aohuiliu.tripletaplock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.tripletaplock_1.0.0_iphoneos-arm.deb
+Size: 3654
+MD5sum: 89a10b2ce95cb0867e2fc3931b465cd7
+SHA1: a178f9e9671b6f2e64588594d10d3db33a6f8383
+SHA256: 70e385ecc1575d5547ba093eb7c065ad6302015a2844213d70c5a8b042c1aa03
+Section: Tweaks
+Description: Tap 3 times to lock in HomeScreen.
+Author: AohuiLiu <x345242281@outlook.com>
+Name: TripleTapLock
 
 Package: com.yourcompany.lockbrate
 Version: 1.0.0
