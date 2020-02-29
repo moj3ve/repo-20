@@ -1,3 +1,20 @@
+Package: com.aohuiliu.doubletaplock
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.doubletaplock_1.0.0_iphoneos-arm.deb
+Size: 3692
+MD5sum: 5e0fac00bcda73129a0ffd8f8e44fa11
+SHA1: d60038fbc74a559eb96621c9ebc761f168f154e6
+SHA256: 6b50264cf24e4a1fc1081c880595fd6b945c3b1d5a312978deff4aebd1b829fd
+Section: Tweaks
+Description: Tap 2 times to lock in HomeScreen.
+Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.doubletaplock
+Name: DoubleTapLock
+
 Package: com.aohuiliu.jbbattery
 Version: 1.0.0
 Architecture: iphoneos-arm
