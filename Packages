@@ -1,11 +1,33 @@
-Package: com.electronixdev.lockbrate
+Package: com.aohuiliu.mytweak
 Version: 1.0.0
-Section: Tweaks
-Maintainer: ElectroniX <electronixwr@gmail.com>
-Depends: firmware (>12.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.yourcompany.lockbrate_0.0.1-5+debug_iphoneos-arm.deb
-Size: 4
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.mytweak_1.0.0_iphoneos-arm.deb
+Size: 8588
+MD5sum: ca7224e492387830ced45d05c13f6863
+SHA1: c21409f0b32957c13bc05929739a496dcab8d818
+SHA256: aebd7940c88f37153b3908e2f561e1a487fa3b82670345a75001a542cceea798
+Section: Tweaks
+Description: Tweak for myself. iPad statusbar, No page dots, Real 3D Touch, Remove Dock...
+Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.mytweak
+Name: MyTweak
+
+Package: com.yourcompany.lockbrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: electronix_wr
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.yourcompany.lockbrate_1.0.0_iphoneos-arm.deb
+Size: 2694
+MD5sum: e74fcd79bdf248b085aa1bb523e9bd30
+SHA1: e27972989132ff59857e225acab6984013db7774
+SHA256: 573bdee7538b86143fe6d27d5fb58170ad88846fb343f1b3c23e0627af0e885d
+Section: Tweaks
+Description: A tweak that gives you haptic feedback when entering the passcode.
+Author: electronix_wr
 Name: HapticLock
-Author: ElectroniiX <electronix_wr@gmail.com>
 
