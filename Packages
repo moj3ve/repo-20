@@ -5,14 +5,14 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 200
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.jbbattery_1.0.0_iphoneos-arm.deb
-Size: 3412
-MD5sum: e73deab3691aba98054c70fd34fca0b7
-SHA1: 7b64ef7e7e8bd6589fff5e65cd633864361d594c
-SHA256: a115e98822b52a47d5c359deadd22651f469c565ce4608d29bd4824236f83cc8
+Size: 3402
+MD5sum: d8c3946076990023cc1dbb720eb190ea
+SHA1: 2a301da44e2f67a6e8f555319eb014b708024bea
+SHA256: 00c9c67526703e9f43c5f0a4590a3b61bbf62afc5acae09853e9ff8df2e0284b
 Section: Tweaks
 Description: 把电池变成JB！ Turn battery to **.
 Author: AohuiLiu <x345242281@outlook.com>
-Depicton: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.jbbattery
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.jbbattery
 Name: JbBattery
 
 Package: com.aohuiliu.keyboardnoswipe
