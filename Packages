@@ -38,10 +38,10 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.mytweak_1.0.0_iphoneos-arm.deb
-Size: 8588
-MD5sum: ca7224e492387830ced45d05c13f6863
-SHA1: c21409f0b32957c13bc05929739a496dcab8d818
-SHA256: aebd7940c88f37153b3908e2f561e1a487fa3b82670345a75001a542cceea798
+Size: 8728
+MD5sum: ae3c318be59a87c4c120cb2076cd5291
+SHA1: d1aa00017120e5f91e2d9b47755f4df519d78e8b
+SHA256: aa4278b8edebf4ef9f5f652902cc707b73f591bd431c39be28db90e4ecb29755
 Section: Tweaks
 Description: Tweak for myself. iPad statusbar, No page dots, Real 3D Touch, Remove Dock...
 Author: AohuiLiu <x345242281@outlook.com>
