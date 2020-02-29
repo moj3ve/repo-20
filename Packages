@@ -48,3 +48,19 @@ Description: A tweak that gives you haptic feedback when entering the passcode.
 Author: electronix_wr
 Name: HapticLock
 
+Package: pw.ssnull.lockedlpm
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: Brian Choi <brian9206@hotmail.com>
+Installed-Size: 92
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./debs/pw.ssnull.lockedlpm_0.0.1-2+debug_iphoneos-arm.deb
+Size: 12370
+MD5sum: 4bdc5216dce0d60a462b194f896848df
+SHA1: 82584dcd3b197529ccc845229d5f94d22071b8b0
+SHA256: 6f2f9b215f31102708f10e0fe7ea9a56ae81e65de36a77966390e29439eb2aaa
+Section: Tweaks
+Description: Enable low power mode when device is locked automatically
+Author: Brian Choi <brian9206@hotmail.com>
+Name: LockedLPM
+
