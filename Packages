@@ -12,6 +12,40 @@ Description: 去启动广告
 Author: 5201314zhang
 Name: bilibili
 
+Package: com.5201314zhang.bilibili
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debs/com.5201314zhang.bilibili_0.0.1-4+debug_iphoneos-arm.deb
+Size: 6668
+MD5sum: c49291622da359454dd1e6590b7485c1
+SHA1: 7aabb4cc8ce0bdbe362694f71fa90324ed5ce3f0
+SHA256: b99ebac34125948ca21c29260bfb1ab58c337dca329fa94ee18864a9f85d1dc0
+Section: Tweaks
+Description: 去启动广告
+ 去推荐广告
+ 优化页面
+ 精简页面
+ 去除所有烦人的地方
+Author: 5201314zhang
+Name: bilibili
+
+Package: com.5201314zhang.eleme
+Filename: ./debs/com.5201314zhang.eleme_0.0.1-2+debug_iphoneos-arm.deb
+Size: 5850
+MD5sum: feb5fe9585dae27aeab02f7b1031290a
+SHA1: 793c73de39e649d724bd08dbd91f5da5a946fc7d
+SHA256: c97b6a57fd20ad766a154689936d554c699fe63ea7ed20e62c3ce2eb6db4cb4f
+Description: 去除启动广告
+ 去除首页横幅
+ 去除热门搜索
+ 去除会员横幅
+ 去除启动弹窗
+Author: 5201314zhang
+Name: eleme
+
 Package: com.5201314zhang.eleme
 Filename: ./debs/com.5201314zhang.eleme_0.0.1-1+debug_iphoneos-arm.deb
 Size: 5846
@@ -25,6 +59,21 @@ Description: 去除启动广告
  去除启动弹窗
 Author: 5201314zhang
 Name: eleme
+
+Package: com.5201314zhang.jingdong
+Filename: ./debs/com.5201314zhang.jingdong_0.0.1-2+debug_iphoneos-arm.deb
+Size: 5162
+MD5sum: cd3994ea8f6353edd6175ec462af26c8
+SHA1: cde4e0992771c28af4a1c67bfb77728c8f7fdc13
+SHA256: 92002f818cbbb508cdb1fff0c7497af6f48501a4d372e7405e83765e403d76b5
+Description: 1.启动广告
+ 2.精简首页
+ 3.首页飘浮
+ 4.搜索板块横幅
+ 5.屏蔽刷新内容
+ 6.精简我的页面
+Author: 5201314zhang
+Name: jingdong
 
 Package: com.5201314zhang.jingdong
 Filename: ./debs/com.5201314zhang.jingdong_0.0.1-1+debug_iphoneos-arm.deb
@@ -42,6 +91,16 @@ Author: 5201314zhang
 Name: jingdong
 
 Package: com.5201314zhang.taobao
+Filename: ./debs/com.5201314zhang.taobao_0.0.1-2+debug_iphoneos-arm.deb
+Size: 5100
+MD5sum: 49d2a5c9c503c63df181abb55436e968
+SHA1: 2d4f0fa451130f485e1364d0494e744104026e81
+SHA256: 89f0d62d8fcd1cdfdb0bc36708a880e68df8b196689ddf397f49037a4097e18b
+Description: 基于云端已有补丁，基于优化：
+Author: 5201314zhang
+Name: taobao
+
+Package: com.5201314zhang.taobao
 Filename: ./debs/com.5201314zhang.taobao_0.0.1-1+debug_iphoneos-arm.deb
 Size: 5100
 MD5sum: 515d05fd61256f354a3593b4513fe43f
@@ -50,6 +109,20 @@ SHA256: de0cb54ab068efdf6d0719457f3dd45ee54d2929767f60c81816ff9e23887920
 Description: 基于云端已有补丁，基于优化：
 Author: 5201314zhang
 Name: taobao
+
+Package: com.5201314zhang.xianyu
+Filename: ./debs/com.5201314zhang.xianyu_0.0.1-2+debug_iphoneos-arm.deb
+Size: 5914
+MD5sum: 3e18fbe6110618e4a3332cbd80bc57ef
+SHA1: 11789b005a2c630031317640988e69bc669ed200
+SHA256: c2c8f85a76f402e48967e9c949e9cb666aae2b91348d445b2ef5abe8fd914a02
+Description: 去除启动广告
+ 去除列表广告
+ 去除横幅广告
+ 去除消息页面横幅
+ 去除同城板块
+Author: 5201314zhang
+Name: xianyu
 
 Package: com.5201314zhang.xianyu
 Filename: ./debs/com.5201314zhang.xianyu_0.0.1-1+debug_iphoneos-arm.deb
@@ -71,6 +144,27 @@ Size: 4882
 MD5sum: 4b7e9c7db89a939492921ffa8e3b720a
 SHA1: 406f8b955132cb87b0738524be0089d712d09d46
 SHA256: 940931fed6e20f2ec0865a7ddb028c8d632176aacaeeef35f65ca5d32e16f3d4
+Description:
+ 1.精简首页板块
+ 2.精简财富板块
+ 3.精简口碑板块～未定位前界面
+ 4.精简朋友界面消息红点
+ 5.去除搜索界面词语
+Author: 5201314zhang
+Name: zhifubao
+
+Package: com.5201314zhang.zhifubao
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: ipad_kid <ipadkid358@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/com.5201314zhang.zhifubao_0.0.1-2+debug_iphoneos-arm.deb
+Size: 4846
+MD5sum: 7d9a7c3586fc74c5d47d4e5a35b6db28
+SHA1: a6bcb1a2fbb43535e38185b336408ebaba5f8e4c
+SHA256: 39921d8e04174868232ad4c12b8173e3d26bb6115d0ae5bfdb283fc68be00c54
+Section: Tweaks
 Description:
  1.精简首页板块
  2.精简财富板块
