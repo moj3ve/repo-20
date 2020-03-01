@@ -115,18 +115,18 @@ Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.jbbattery
 Name: JbBattery
 
 Package: com.aohuiliu.keyboardnoswipe
-Version: 0.0.1-3+debug
+Version: 0.0.1-4+debug
 Architecture: iphoneos-arm
 Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.aohuiliu.keyboardnoswipe_0.0.1-3+debug_iphoneos-arm.deb
-Size: 5390
-MD5sum: 3d42af60e5ec9b7b2ae1bb91b87514fe
-SHA1: 2af6e2ac95e880c442781e809193a8d526c07c6c
-SHA256: dac0514591c467adeb3ba182cbdb7ca9b577d954edb937132af550353ebfc9f1
+Filename: ./debs/com.aohuiliu.keyboardnoswipe_0.0.1-4+debug_iphoneos-arm.deb
+Size: 5434
+MD5sum: 9a5b1e73b98dc88decc275051a9c32d4
+SHA1: 5f2ee1f15c2f128512bca2f44d5f9a763fa85c88
+SHA256: e52b071ae0f271483e9084aec5e1600abd5988605cf65e437eb3073b3f21e1c0
 Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
+Description: 开启键盘时禁用X手势操作。
 Author: AohuiLiu <x345242281@outlook.com>
 Name: KeyBoardNoSwipe
 
@@ -163,6 +163,22 @@ Description: Tap 3 times to lock in HomeScreen.
 Author: AohuiLiu <x345242281@outlook.com>
 Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.tripletaplock
 Name: TripleTapLock
+
+Package: com.icraze.gestures13
+Version: 6.6
+Architecture: iphoneos-arm
+Maintainer: iCraze
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.icraze.gestures13_6.6_iphoneos-arm.deb
+Size: 4164
+MD5sum: e852c93656fe79947397cb8149d91597
+SHA1: 6583fb885f4fc76d0a1ea2c92f5917a9ecfb9141
+SHA256: 94b8d87657a9f0519dcd2d27a0e37cbb05ed0783ba12bf6069c976f077c178d0
+Section: Tweaks
+Description: 加入键盘时禁用手势功能。
+Author: iCraze & Ryan Nair
+Name: Gestures13M
 
 Package: com.mtfsawako.tim2
 Version: 0.0.1-2+debug
