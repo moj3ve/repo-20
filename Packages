@@ -209,16 +209,16 @@ Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.jbbattery
 Name: JbBattery
 
 Package: com.aohuiliu.keyboardnoswipe
-Version: 0.0.1-4+debug
+Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debs/com.aohuiliu.keyboardnoswipe_0.0.1-4+debug_iphoneos-arm.deb
-Size: 5434
-MD5sum: 9a5b1e73b98dc88decc275051a9c32d4
-SHA1: 5f2ee1f15c2f128512bca2f44d5f9a763fa85c88
-SHA256: e52b071ae0f271483e9084aec5e1600abd5988605cf65e437eb3073b3f21e1c0
+Filename: ./debs/com.aohuiliu.keyboardnoswipe_0.0.1_iphoneos-arm.deb
+Size: 4182
+MD5sum: 14adf87766166147fef4c9eddc5a061f
+SHA1: 44c05bb2c1fc2cb6e28b081c6f88b9ce1e70e22a
+SHA256: 03c4623c5edd0f957fffe65eb8207cbaff81abdade55cd48da636fa91e46337a
 Section: Tweaks
 Description: 开启键盘时禁用X手势操作。
 Author: AohuiLiu <x345242281@outlook.com>
