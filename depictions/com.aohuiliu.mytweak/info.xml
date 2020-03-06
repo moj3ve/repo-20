@@ -4,6 +4,7 @@
 	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
+            <miniOS>13.0</miniOS>
 			<maxiOS>13.3.1</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
@@ -13,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Tweak for myself.</description>
+		<description>自用，请勿安装！</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
