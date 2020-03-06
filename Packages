@@ -248,10 +248,10 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 56
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.mytweak_1.0.1_iphoneos-arm.deb
-Size: 6986
-MD5sum: 25d260ad171323d7265c6362899c5844
-SHA1: 8bfc5f98183b0c86d09130674d1a1bc31218b3bb
-SHA256: c4afb778418bb0de27e58ae8ad0c9c36df27fd31f3bf66f599a10ea043892a30
+Size: 6972
+MD5sum: 4780cade4a25a22ea25d126b84fcddca
+SHA1: 36d77b6552c7495cc387683eb4fcd418cf51d604
+SHA256: 3d5472c338c7c7928f502585eed929126a877493aeb14703e6ab10ae3dafc9d7
 Section: Tweaks
 Description: Tweak for myself. iPad statusbar, No page dots, Real 3D Touch, Remove Dock...
 Author: AohuiLiu <x345242281@outlook.com>
@@ -275,21 +275,28 @@ Author: AohuiLiu <x345242281@outlook.com>
 Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.tripletaplock
 Name: TripleTapLock
 
-Package: com.icraze.gestures13
-Version: 6.6
+Package: com.aohuiliu.xgesture13
+Version: 1.0.0
 Architecture: iphoneos-arm
-Maintainer: iCraze
+Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 56
 Depends: mobilesubstrate
-Filename: ./debs/com.icraze.gestures13_6.6_iphoneos-arm.deb
-Size: 4164
-MD5sum: e852c93656fe79947397cb8149d91597
-SHA1: 6583fb885f4fc76d0a1ea2c92f5917a9ecfb9141
-SHA256: 94b8d87657a9f0519dcd2d27a0e37cbb05ed0783ba12bf6069c976f077c178d0
+Filename: ./debs/com.aohuiliu.xgesture13_1.0.0_iphoneos-arm.deb
+Size: 4800
+MD5sum: af0a5d3b503d7e1f761991d361e5c4b7
+SHA1: 034e0fa0c55ba195d023248414a77fc4047ea5f1
+SHA256: bf6624b3f7b8a715738c566bdabe9bd4b90a5c61fc54b71398b8b03121f91918
 Section: Tweaks
-Description: 加入键盘时禁用手势功能。
-Author: iCraze & Ryan Nair
-Name: Gestures13M
+Description: X手势⚡️
+ X手势
+ 原版键盘
+ 锁屏快捷方式（手电、相机）
+ 键盘开启时禁用手势
+ 相机底部抬升
+ 代码优化
+ 轻量不耗电
+Author: AohuiLiu <x345242281@outlook.com>
+Name: XGesture13
 
 Package: com.mtfsawako.tim2
 Version: 0.0.1-2+debug
