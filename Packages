@@ -215,12 +215,14 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.keyboardnoswipe_0.0.1_iphoneos-arm.deb
-Size: 4182
-MD5sum: 14adf87766166147fef4c9eddc5a061f
-SHA1: 44c05bb2c1fc2cb6e28b081c6f88b9ce1e70e22a
-SHA256: 03c4623c5edd0f957fffe65eb8207cbaff81abdade55cd48da636fa91e46337a
+Size: 4180
+MD5sum: ca873aad12dbdfdeefdd8466497ce402
+SHA1: 16306689e4de93cf2087c58a87361a03d4daf241
+SHA256: 4cb25177e9cf30b6166ed5d34aa9465f471b9046cff27d7f09dfc811072274b5
 Section: Tweaks
 Description: 开启键盘时禁用X手势操作。
+ 开启键盘时禁用X手势操作。
+ iOS13适用。
 Author: AohuiLiu <x345242281@outlook.com>
 Name: KeyBoardNoSwipe
 
