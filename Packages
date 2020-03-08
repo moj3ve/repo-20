@@ -1,97 +1,3 @@
-Package: com.5201314zhang.bilibili
-Version: 0.0.1-4+debug
-Architecture: iphoneos-arm
-Maintainer: ipad_kid <ipadkid358@gmail.com>
-Installed-Size: 160
-Depends: mobilesubstrate
-Filename: ./debs/com.5201314zhang.bilibili_0.0.1-4+debug_iphoneos-arm.deb
-Size: 6668
-MD5sum: c49291622da359454dd1e6590b7485c1
-SHA1: 7aabb4cc8ce0bdbe362694f71fa90324ed5ce3f0
-SHA256: b99ebac34125948ca21c29260bfb1ab58c337dca329fa94ee18864a9f85d1dc0
-Section: Tweaks
-Description: 去启动广告
- 去推荐广告
- 优化页面
- 精简页面
- 去除所有烦人的地方
-Author: 5201314zhang
-Name: bilibili
-
-Package: com.5201314zhang.eleme
-Filename: ./debs/com.5201314zhang.eleme_0.0.1-2+debug_iphoneos-arm.deb
-Size: 5850
-MD5sum: feb5fe9585dae27aeab02f7b1031290a
-SHA1: 793c73de39e649d724bd08dbd91f5da5a946fc7d
-SHA256: c97b6a57fd20ad766a154689936d554c699fe63ea7ed20e62c3ce2eb6db4cb4f
-Description: 去除启动广告
- 去除首页横幅
- 去除热门搜索
- 去除会员横幅
- 去除启动弹窗
-Author: 5201314zhang
-Name: eleme
-
-Package: com.5201314zhang.jingdong
-Filename: ./debs/com.5201314zhang.jingdong_0.0.1-2+debug_iphoneos-arm.deb
-Size: 5162
-MD5sum: cd3994ea8f6353edd6175ec462af26c8
-SHA1: cde4e0992771c28af4a1c67bfb77728c8f7fdc13
-SHA256: 92002f818cbbb508cdb1fff0c7497af6f48501a4d372e7405e83765e403d76b5
-Description: 1.启动广告
- 2.精简首页
- 3.首页飘浮
- 4.搜索板块横幅
- 5.屏蔽刷新内容
- 6.精简我的页面
-Author: 5201314zhang
-Name: jingdong
-
-Package: com.5201314zhang.taobao
-Filename: ./debs/com.5201314zhang.taobao_0.0.1-2+debug_iphoneos-arm.deb
-Size: 5100
-MD5sum: 49d2a5c9c503c63df181abb55436e968
-SHA1: 2d4f0fa451130f485e1364d0494e744104026e81
-SHA256: 89f0d62d8fcd1cdfdb0bc36708a880e68df8b196689ddf397f49037a4097e18b
-Description: 基于云端已有补丁，基于优化：
-Author: 5201314zhang
-Name: taobao
-
-Package: com.5201314zhang.xianyu
-Filename: ./debs/com.5201314zhang.xianyu_0.0.1-2+debug_iphoneos-arm.deb
-Size: 5914
-MD5sum: 3e18fbe6110618e4a3332cbd80bc57ef
-SHA1: 11789b005a2c630031317640988e69bc669ed200
-SHA256: c2c8f85a76f402e48967e9c949e9cb666aae2b91348d445b2ef5abe8fd914a02
-Description: 去除启动广告
- 去除列表广告
- 去除横幅广告
- 去除消息页面横幅
- 去除同城板块
-Author: 5201314zhang
-Name: xianyu
-
-Package: com.5201314zhang.zhifubao
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: ipad_kid <ipadkid358@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.5201314zhang.zhifubao_0.0.1-2+debug_iphoneos-arm.deb
-Size: 4846
-MD5sum: 7d9a7c3586fc74c5d47d4e5a35b6db28
-SHA1: a6bcb1a2fbb43535e38185b336408ebaba5f8e4c
-SHA256: 39921d8e04174868232ad4c12b8173e3d26bb6115d0ae5bfdb283fc68be00c54
-Section: Tweaks
-Description:
- 1.精简首页板块
- 2.精简财富板块
- 3.精简口碑板块～未定位前界面
- 4.精简朋友界面消息红点
- 5.去除搜索界面词语
-Author: 5201314zhang
-Name: zhifubao
-
 Package: com.aohuiliu.doubletaplock
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -181,32 +87,17 @@ Name: MyTweak
 Package: com.aohuiliu.mytweak
 Version: 1.0.2
 Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 56
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.mytweak_1.0.2_iphoneos-arm.deb
-Size: 7326
-MD5sum: 1928b07b6da0665186e9ab2c33a79e9f
-SHA1: bb96ca4e18227144e778b3bd975fbc09208d7392
-SHA256: c498b55832161f57077a8b6c9c14a8880a1854deff28d3c3c3bf86c8639b1055
+Size: 7134
+MD5sum: 72734653eb5d30c83597296059d20001
+SHA1: 59b2a64d38b1a8bf7816f2ea2a9178d376e4dd7b
+SHA256: 32230d94531367aa3de3119562bb9c03067c8624034212f847768c7266c896c8
 Section: Tweaks
 Description: 自用，请勿安装。
  *自用，请勿安装*
- 状态栏
-  5G
-  iPad状态栏
-  自定义运营商
-  控制中心状态栏
-  自定义时间格式
-  去除电池保留百分比
- 桌面
-  X手势
-  三击锁屏
-  隐藏翻页点
-  去除DOCK栏
- 锁屏
-  锁屏手电相机
- 更多功能...
- Maintainer: AohuiLiu <x345242281@outlook.com>
 Author: AohuiLiu <x345242281@outlook.com>
 Epiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.mytweak
 Name: MyTweak
@@ -251,38 +142,6 @@ Description: X手势⚡️
 Author: AohuiLiu <x345242281@outlook.com>
 Name: XGesture13
 
-Package: com.mtfsawako.tim2
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: ipad_kid <ipadkid358@gmail.com>
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/com.mtfsawako.tim2_0.0.1-2+debug_iphoneos-arm.deb
-Size: 4054
-MD5sum: 1ea2e274e49ffdbb51d9afd08d7a4f41
-SHA1: 7bab6ae95e87a760b53070194aff651e4f4e6229
-SHA256: b36a8749399ff0bc82b4f77eb8ed11d25f3923cb2b5301a8948553e57f8622cc
-Section: Tweaks
-Description: 移除輸入文字後彈出的關聯表情 v2.15
-Author: @MTFSAWAKO
-Name: tim2
-
-Package: com.notbad.cainiao
-Version: 0.0.1-2+debug
-Architecture: iphoneos-arm
-Maintainer: ipad_kid <ipadkid358@gmail.com>
-Installed-Size: 160
-Depends: mobilesubstrate
-Filename: ./debs/com.notbad.cainiao_0.0.1-2+debug_iphoneos-arm.deb
-Size: 6184
-MD5sum: 592f397433a68d7863ff41737c95ca24
-SHA1: 7d9b84e2654df45a1e4c81741155ed6b33d3fcdf
-SHA256: c3af16a83b8ee4409af1dfdc508800406c45872871474022cee2c30584dad9b4
-Section: Tweaks
-Description: 精简各种广告
-Author: Notbad
-Name: cainiao
-
 Package: com.poqw312.wechat
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
@@ -314,61 +173,6 @@ Description: 本补丁规则大部分来自云端
  16.消息防撤回(带提示)，删除好友保存聊天记录
 Author: poqw312
 Name: wechat
-
-Package: com.qq269337167.qq
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: ipad_kid <ipadkid358@gmail.com>
-Installed-Size: 164
-Depends: mobilesubstrate
-Filename: ./debs/com.qq269337167.qq_0.0.1-1+debug_iphoneos-arm.deb
-Size: 7720
-MD5sum: 304a7cfad8d80de4295ba3e697c900f1
-SHA1: 65353855b87cd040817046bd7564ebb21b110c2c
-SHA256: f9fb369527e01bb656f4fc42f23873c39cf94419ddf27f252b2fefd520f518be
-Section: Tweaks
-Description: 自用简洁模式下优化，开启最高支持7.5.8的Callkit
-Author: qq269337167
-Name: qq
-
-Package: com.wrgok.tim1
-Version: 0.0.1-4+debug
-Architecture: iphoneos-arm
-Maintainer: ipad_kid <ipadkid358@gmail.com>
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/com.wrgok.tim1_0.0.1-4+debug_iphoneos-arm.deb
-Size: 6128
-MD5sum: ca2ff6464a6493e0e7ea0eea9e9e766f
-SHA1: 451eb3b377b55a4499f581b89782e287be548587
-SHA256: 93bcf50e3176f623c06b94186a938f78055d4a75310cd0fa90e3a514a7b83552
-Section: Tweaks
-Description: 1.去除版本升级
- 2.隐藏推荐表情
- 3.去除闪照读秒提示
- 4.去除闪照查看提示
- 5.解除闪照查看提示
- 6.发信息输入框高度
- 7.信息防撤回
- 8.去群等级标签彩色背景
-Author: wrgok
-Name: tim1
-
-Package: com.yourcompany.lockbrate
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: electronix_wr
-Installed-Size: 136
-Depends: mobilesubstrate
-Filename: ./debs/com.yourcompany.lockbrate_1.0.0_iphoneos-arm.deb
-Size: 2694
-MD5sum: e74fcd79bdf248b085aa1bb523e9bd30
-SHA1: e27972989132ff59857e225acab6984013db7774
-SHA256: 573bdee7538b86143fe6d27d5fb58170ad88846fb343f1b3c23e0627af0e885d
-Section: Tweaks
-Description: A tweak that gives you haptic feedback when entering the passcode.
-Author: electronix_wr
-Name: HapticLock
 
 Package: pw.ssnull.lockedlpm
 Version: 0.0.1-2+debug
