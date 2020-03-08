@@ -178,6 +178,39 @@ Author: AohuiLiu <x345242281@outlook.com>
 Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.mytweak
 Name: MyTweak
 
+Package: com.aohuiliu.mytweak
+Version: 1.0.2
+Architecture: iphoneos-arm
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.mytweak_1.0.2_iphoneos-arm.deb
+Size: 7326
+MD5sum: 1928b07b6da0665186e9ab2c33a79e9f
+SHA1: bb96ca4e18227144e778b3bd975fbc09208d7392
+SHA256: c498b55832161f57077a8b6c9c14a8880a1854deff28d3c3c3bf86c8639b1055
+Section: Tweaks
+Description: 自用，请勿安装。
+ *自用，请勿安装*
+ 状态栏
+  5G
+  iPad状态栏
+  自定义运营商
+  控制中心状态栏
+  自定义时间格式
+  去除电池保留百分比
+ 桌面
+  X手势
+  三击锁屏
+  隐藏翻页点
+  去除DOCK栏
+ 锁屏
+  锁屏手电相机
+ 更多功能...
+ Maintainer: AohuiLiu <x345242281@outlook.com>
+Author: AohuiLiu <x345242281@outlook.com>
+Epiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.mytweak
+Name: MyTweak
+
 Package: com.aohuiliu.tripletaplock
 Version: 1.0.0
 Architecture: iphoneos-arm
