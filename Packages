@@ -91,10 +91,28 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 56
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.mytweak_1.0.2_iphoneos-arm.deb
-Size: 7134
-MD5sum: 72734653eb5d30c83597296059d20001
-SHA1: 59b2a64d38b1a8bf7816f2ea2a9178d376e4dd7b
-SHA256: 32230d94531367aa3de3119562bb9c03067c8624034212f847768c7266c896c8
+Size: 7124
+MD5sum: c68031eadad02456bf34ca9c6c6ce38f
+SHA1: 8c1548964fc0c714229febf52a4e68c7829f2537
+SHA256: 7e92ddc1c15e06320f74081b78eb5f1d762608577f903f5a9f4f1fdf54d86cc6
+Section: Tweaks
+Description: 自用，请勿安装。
+ *自用，请勿安装*
+Author: AohuiLiu <x345242281@outlook.com>
+Epiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.mytweak
+Name: MyTweak
+
+Package: com.aohuiliu.mytweak
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.mytweak_1.0.3_iphoneos-arm.deb
+Size: 7124
+MD5sum: b98eeff0bc7624604ad91dd6886d6370
+SHA1: b246b9e524bfdf3f44550b151c22acb88cfe48f3
+SHA256: 25bfa204abf67b99f22fcc2feb5368d8914a4f85b5bacd917a5b67251ac92343
 Section: Tweaks
 Description: 自用，请勿安装。
  *自用，请勿安装*
