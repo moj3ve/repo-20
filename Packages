@@ -109,10 +109,10 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 56
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.mytweak_1.0.3_iphoneos-arm.deb
-Size: 7230
-MD5sum: 31c72a2ef83ef3d4de8b0be0c27cf94c
-SHA1: 45796002a5df0dc0dedb9d6a4e6015b764ff7137
-SHA256: fdbc7e39edc81b34731f72c933101e2d06cefb086b2d911c65a2e43b99102582
+Size: 7178
+MD5sum: 6d8ab1208b46ce1ec508185e8d450923
+SHA1: 682d3d6c93883a0d36b2be97251f1d717fb626bf
+SHA256: 415daa967138cec5c69fa74d719ab85346915c985cc3bcadf207699b13f55c81
 Section: Tweaks
 Description: 自用，请勿安装。
  *自用，请勿安装*
@@ -159,6 +159,22 @@ Description: X手势⚡️
  轻量不耗电
 Author: AohuiLiu <x345242281@outlook.com>
 Name: XGesture13
+
+Package: com.ethanrdoesmc.truecuts
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./debs/com.ethanrdoesmc.truecuts_1.0.0_iphoneos-arm.deb
+Size: 3064
+MD5sum: 95ac17ebd5a59d9c0428fa8d88924ce3
+SHA1: 6dbc8ac067015f6f4b71ed540c20e1dd8f0fdb83
+SHA256: 7a0d726857fe175aa58317f852b09364b8df08c0a1612f765d3b576c99b38e24
+Section: Tweaks
+Description: Allow all Shortcuts automations to be run without asking!
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Name: Truecuts
 
 Package: com.poqw312.wechat
 Version: 0.0.1-1+debug
