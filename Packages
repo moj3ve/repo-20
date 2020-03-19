@@ -127,10 +127,10 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.mytweak_1.0.4_iphoneos-arm.deb
-Size: 7806
-MD5sum: a096d12274e13d227bdfff3011dc8da6
-SHA1: 4ac308821969806bbc1b67bee1388a6f200372ae
-SHA256: 7e3048e2a48ab67b3e3d2754c41a234b801fba2b54dd23f10f40907893ea3611
+Size: 7886
+MD5sum: a299a96cfe450bf7efb0a4c0677265fe
+SHA1: 0b86227e49453096ad8135899f78a247164c7bc2
+SHA256: f36e0f755fae5c8deb25f47cc24be06724354384d326bb590932c75104f9674d
 Section: Tweaks
 Description: 自用，请勿安装。
  *自用，请勿安装*
