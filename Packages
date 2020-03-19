@@ -178,6 +178,30 @@ Description: X手势⚡️
 Author: AohuiLiu <x345242281@outlook.com>
 Name: XGesture13
 
+Package: com.aohuiliu.xgesture13
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.xgesture13_1.0.1_iphoneos-arm.deb
+Size: 4736
+MD5sum: e5c0c23b58819870a3c3642f308fb6c0
+SHA1: dd6b17d5c2607d7a8e130ddf19d2f31e9b6315e6
+SHA256: d7d5bde63adf73e589e6c35a84038c1f71f68fc137b678c29db6dcd6b254de6d
+Section: Tweaks
+Description: X手势⚡️
+ X手势
+ 增加横屏禁用
+ 原版键盘
+ 锁屏快捷方式（手电、相机）
+ 键盘开启时禁用手势
+ 相机底部抬升
+ 代码优化
+ 轻量不耗电
+Author: AohuiLiu <x345242281@outlook.com>
+Name: XGesture13
+
 Package: com.ethanrdoesmc.truecuts
 Version: 1.0.0
 Architecture: iphoneos-arm
