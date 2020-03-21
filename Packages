@@ -22,14 +22,14 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 340
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.ipadbar13_1.0.0_iphoneos-arm.deb
-Size: 27948
-MD5sum: b1e42ece9634c0367b62038e1f62f40f
-SHA1: 6bf8502bc2d93f068ff946f31f325d05adb19eeb
-SHA256: ebb3f2b9ec250dca59d0c0f4c882b111ad18a7832a301a1b9c1afcaa5f07e3ca
+Size: 28028
+MD5sum: 90dc8d7f474feb940f80a9a9d84bd594
+SHA1: 846b477cbb809f6fe93c1be6df66b068c431bb95
+SHA256: f4614316163e1bc7011808119feafd4ffb5d568a623279bcd038b5952afb3636
 Section: Tweaks
 Description: 为非刘海屏设计的iPad状态栏。
- 为非刘海屏设计的iPad状态栏。
- 自iPadStatusBar修改而来，
+ 为非刘海屏设计的iPad状态栏
+ 自iPadStatusBar修改而来
  增加网速显示
  自定义运营商
  自定义时间格式（支持秒）
@@ -38,6 +38,7 @@ Description: 为非刘海屏设计的iPad状态栏。
  更多功能
  敬请期待
 Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.ipadbar13
 Name: iPadBar13
 
 Package: com.aohuiliu.jbbattery

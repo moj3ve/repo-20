@@ -1,0 +1,18 @@
+<changelog>
+	<changes>
+		<version>1.0.0</version>
+		<change>修复开启网速后时间抖动的问题。</change>
+	</changes>
+	<changes>
+		<version>1.0.0</version>
+		<change> 为非刘海屏设计的iPad状态栏。
+        自iPadStatusBar修改而来，
+        增加网速显示
+        自定义运营商
+        自定义时间格式（支持秒）
+        字体调整
+        电池内百分比
+        更多功能
+        敬请期待</change>
+	</changes>
+</changelog>
