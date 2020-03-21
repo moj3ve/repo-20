@@ -16,22 +16,6 @@ Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.doubletaplo
 Name: DoubleTapLock
 
 Package: com.aohuiliu.ipadbar13
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: AohuiLiu <x345242281@outlook.com>
-Installed-Size: 316
-Depends: mobilesubstrate
-Filename: ./debs/com.aohuiliu.ipadbar13_1.0_iphoneos-arm.deb
-Size: 26362
-MD5sum: 5c9bf1937bf2eb5a59ab9ebfa27254dc
-SHA1: d5d3a1269c25c5b9c7d3319a6df150ed6e8518bc
-SHA256: b8de0e54af27063edc7fb48143ef5df7609ce596f3371a80448d1ae5ccd72964
-Section: Tweaks
-Description: TEST
-Author: AohuiLiu <x345242281@outlook.com>
-Name: iPadBar13
-
-Package: com.aohuiliu.ipadbar13
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: AohuiLiu <x345242281@outlook.com>
