@@ -16,6 +16,7 @@
 		<description>iPad StatusBar with cool customization.</description>
         <description>Keep all iPadStatusBar features.</description>
 		<description>Customization for time format, network speed and carrier. View screenshots for more detals.</description>
+        <description>Special thanks: NoisyFlake, Testers.</description>
 		<description><![CDATA[
 		Support A12 devices.
 		]]>
@@ -26,20 +27,17 @@
 			<description>More features coming soon</description>
 			<image>1.PNG</image>
 		</screenshot>		
-		<screenshot>
-			<description></description>
-			<image>2.PNG</image>
-		</screenshot>		
+        
 	</screenshots>
 	<changelog>
-		<change>Second release</change>
+		<change>Update date: 2020.3.27</change>
 		<change>Support time format, network speed and carrier customization.</change>
 		<change>Fix minor problems.</change>
 	</changelog>
 	<links>
 		<link>
 			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
+			<url>https://www.reddit.com/user/janeDUT</url>
 			<iconclass>fa fa-reddit</iconclass>
 		</link>
 	</links>
