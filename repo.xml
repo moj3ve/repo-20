@@ -5,10 +5,16 @@
 			<url>https://twitter.com/aohuiliu</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
+        <link>
+            <name>/r/jailbreak</name>
+            <url>https://www.reddit.com/user/janeDUT</url>
+            <iconclass>fa fa-reddit</iconclass>
+        </link>
 		<link>
 			<name>Donate via PayPal</name>
 			<url>https://www.paypal.me/alierya</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
+        
 	</footerlinks>
 </repo>

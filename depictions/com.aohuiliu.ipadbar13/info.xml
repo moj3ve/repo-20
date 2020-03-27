@@ -35,11 +35,4 @@
 		<change>Support time format, network speed and carrier customization.</change>
 		<change>Fix minor problems.</change>
 	</changelog>
-	<links>
-		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/user/janeDUT</url>
-			<iconclass>fa fa-reddit</iconclass>
-		</link>
-	</links>
 </package>
