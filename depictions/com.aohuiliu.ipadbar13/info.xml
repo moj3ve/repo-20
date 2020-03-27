@@ -15,7 +15,7 @@
 	<descriptionlist>
 		<description>iPad StatusBar with cool customization.</description>
         <description>Keep all iPadStatusBar features.</description>
-		<description>Customization for time format and network speed.</description>
+		<description>Customization for time format, network speed and carrier. View screenshots for more detals.</description>
 		<description><![CDATA[
 		Support A12 devices.
 		]]>
@@ -33,8 +33,8 @@
 	</screenshots>
 	<changelog>
 		<change>Second release</change>
-		<change>It has feature 1</change>
-		<change>It has feature 2</change>
+		<change>Support time format, network speed and carrier customization.</change>
+		<change>Fix minor problems.</change>
 	</changelog>
 	<links>
 		<link>
