@@ -9,7 +9,8 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>mobilesubstrate</package>
+		<package>mobilesubstrate&lt;br/&gt;
+		My lovely testers</package>
 	</dependencies>
 	<shortDescription>Awesome StatusBar!</shortDescription>
 	<descriptionlist>
