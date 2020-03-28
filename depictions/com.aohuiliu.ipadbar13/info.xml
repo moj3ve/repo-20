@@ -15,22 +15,34 @@
 	<descriptionlist>
 		<description>iPad StatusBar with cool customization.</description>
         <description>Keep all iPadStatusBar features.</description>
-		<description>Customization for time format, network speed and carrier. View screenshots for more detals.</description>
+		<description>Customization for time format, network speed and carrier.&#x000A;View screenshots for more detals.</description>
         <description>Support A12 devices.</description>
 		<description><![CDATA[
-		Special thanks: NoisyFlake, Testers.
+		Special thanks: NoisyFlake
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>More features coming soon. if you have cool ideas or problems, please contact me.</description>
-			<image>1.PNG</image>
-		</screenshot>		
+			<description>Custom Time Format</description>
+			<image>format.jpeg</image>
+		</screenshot>
+        <description>Custom Carrier</description>
+            <image>carrier.jpeg</image>
+        </screenshot>
+        <description>Network Speed</description>
+            <image>speed.jpeg</image>
+        </screenshot>
+        <description>Settings</description>
+            <image>settings.png</image>
+        </screenshot>
+        <description>Item Hiding</description>
+            <image>item.png</image>
+        </screenshot>
         
 	</screenshots>
 	<changelog>
-		<change>Update date: 2020.3.27</change>
+		<change>Update date: May 28, 2020</change>
 		<change>Support time format, network speed and carrier customization.</change>
 		<change>Fix minor problems.</change>
 	</changelog>
