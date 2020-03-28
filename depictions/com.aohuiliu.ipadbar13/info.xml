@@ -55,8 +55,8 @@
 	</screenshots>
 	<changelog>
 		<change>Update date: May 28, 2020</change>
-		<change>Support time format, network speed and carrier customization.</change>
-		<change>Add A12 support.</change>
-		<change>Fix minor problems.</change>
+    <change>Time format MUST contain colons(:).&lt;br/&gt;
+			For example hh:mm.&lt;br/&gt;
+			Fix the problem that when hide carrier also hide time.</change>
 	</changelog>
 </package>
