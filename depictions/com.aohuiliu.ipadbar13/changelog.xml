@@ -1,7 +1,13 @@
 <changelog>
+    <changes>
+        <version>1.0.2</version>
+        <change>Update date: May 28, 2020</change>
+        <change>Time format MUST contain colons(:).&lt;br/&gt;
+        For example hh:mm.</change>
+    </changes>
 	<changes>
 		<version>1.0.1</version>
-		<change>Update date: 2020.3.27</change>
+		<change>Update date: May 27, 2020</change>
 		<change>Support time format, network speed and carrier customization.</change>
         <change>Add A12 support.</change>
 		<change>Fix minor problems.</change>
