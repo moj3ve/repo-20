@@ -3,10 +3,11 @@
 		<version>1.0.1</version>
 		<change>Update date: 2020.3.27</change>
 		<change>Support time format, network speed and carrier customization.</change>
+        <change>Add A12 support.</change>
 		<change>Fix minor problems.</change>
 	</changes>
 	<changes>
 		<version>1.0.0</version>
-		<change>Initial Release</change>
+		<change>Fix crash when disable battery icon.</change>
 	</changes>
 </changelog>

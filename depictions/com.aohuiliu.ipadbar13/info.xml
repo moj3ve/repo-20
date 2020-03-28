@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
-            <maxiOS>13.4</maxiOS>
+      <maxiOS>13.4</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -13,10 +13,9 @@
 	</dependencies>
 	<shortDescription>Awesome StatusBar!</shortDescription>
 	<descriptionlist>
-		<description>iPad StatusBar with cool customization.</description>
-        <description>Keep all iPadStatusBar features.</description>
+		<description>iPad StatusBar with cool customization.&#x000A;Keep all iPadStatusBar features.&#x000A;Support iOS13.0-13.4.</description>
 		<description>Customization for time format, network speed and carrier.&#x000A;View screenshots for more detals.</description>
-        <description>Support A12 devices.</description>
+    <description>Support A12 devices.</description>
 		<description><![CDATA[
 		Special thanks: NoisyFlake
 		]]>
@@ -27,23 +26,32 @@
 			<description>Custom Time Format</description>
 			<image>format.jpeg</image>
 		</screenshot>
-        <description>Custom Carrier</description>
-            <image>carrier.jpeg</image>
-        </screenshot>
-        <description>Network Speed</description>
-            <image>speed.jpeg</image>
-        </screenshot>
-        <description>Settings</description>
-            <image>settings.png</image>
-        </screenshot>
-        <description>Item Hiding</description>
-            <image>item.png</image>
-        </screenshot>
-        
+
+		<screenshot>
+      <description>Custom Carrier</description>
+      <image>carrier.jpeg</image>
+    </screenshot>
+
+		<screenshot>
+    	<description>Network Speed</description>
+      <image>speed.jpeg</image>
+    </screenshot>
+
+		<screenshot>
+      <description>Settings</description>
+      <image>settings.png</image>
+    </screenshot>
+
+		<screenshot>
+    	<description>Item Hiding</description>
+      <image>item.png</image>
+    </screenshot>
+
 	</screenshots>
 	<changelog>
 		<change>Update date: May 28, 2020</change>
 		<change>Support time format, network speed and carrier customization.</change>
+		<change>Add A12 support.</change>
 		<change>Fix minor problems.</change>
 	</changelog>
 </package>
