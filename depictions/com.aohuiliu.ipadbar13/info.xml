@@ -13,9 +13,12 @@
 	</dependencies>
 	<shortDescription>Awesome StatusBar!</shortDescription>
 	<descriptionlist>
-		<description>iPad StatusBar with cool customization.&lt;br/&gt;Keep all iPadStatusBar features.&lt;br/&gt;Support iOS13.0-13.4.</description>
-		<description>Customization for time format, network speed and carrier.&lt;br/&gt;View screenshots for more detals.</description>
-    <description>Support A12 devices.</description>
+		<description>iPad StatusBar with cool customization.&lt;br/&gt;
+			Keep all iPadStatusBar features.&lt;br/&gt;
+			Support iOS13.0-13.4.&lt;br/&gt;
+			Support A12 devices.</description>
+		<description>Customization for time format, network speed and carrier.&lt;br/&gt;
+			View screenshots for more detals.</description>
 		<description><![CDATA[
 		Special thanks: NoisyFlake
 		]]>
