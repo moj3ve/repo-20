@@ -54,7 +54,7 @@
 
 	</screenshots>
 	<changelog>
-		<change>Update date: Maarch 28, 2020</change>
+		<change>Update date: March 28, 2020</change>
     <change>Time format MUST contain colons(:).&lt;br/&gt;
 			For example hh:mm.&lt;br/&gt;
 			Fix the problem that when hide carrier also hide time.</change>
