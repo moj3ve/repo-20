@@ -1,13 +1,13 @@
 <changelog>
   <changes>
     <version>1.0.2</version>
-    <change>Update date: May 28, 2020</change>
+    <change>Update date: March 28, 2020</change>
     <change>Time format MUST contain colons(:).&lt;br/&gt;For example hh:mm.&lt;br/&gt;Fix the problem that when hide carrier also hide time.</change>
   </changes>
 
 	<changes>
 		<version>1.0.1</version>
-		<change>Update date: May 27, 2020</change>
+		<change>Update date: Maarch 27, 2020</change>
 		<change>Support time format, network speed and carrier customization.</change>
         <change>Add A12 support.</change>
 		<change>Fix minor problems.</change>
