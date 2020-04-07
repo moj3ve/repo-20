@@ -233,6 +233,24 @@ Author: AohuiLiu <x345242281@outlook.com>
 Epiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.mytweak
 Name: MyTweak
 
+Package: com.aohuiliu.mytweak
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.mytweak_1.0.5_iphoneos-arm.deb
+Size: 6776
+MD5sum: b77e7a5c617afc5fb491c281f0ce1abd
+SHA1: 07bb0cd6e3affc4eb6982df837c2ac1ceb8d21b9
+SHA256: 2fde1f37b214ea03116d84ac97ce93f1677bcd51f38a9cfa31d8c10d759d6416
+Section: Tweaks
+Description: 自用，请勿安装。
+ *自用，请勿安装*
+Author: AohuiLiu <x345242281@outlook.com>
+Epiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.mytweak
+Name: MyTweak
+
 Package: com.aohuiliu.tripletaplock
 Version: 1.0.0
 Architecture: iphoneos-arm
