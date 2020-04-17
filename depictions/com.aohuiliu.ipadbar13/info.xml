@@ -4,8 +4,8 @@
 	<version>1.1.0</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
-      <maxiOS>13.4</maxiOS>
+            <miniOS>13.0</miniOS>
+            <maxiOS>13.4.1</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -54,7 +54,10 @@
 
 	</screenshots>
 	<changelog>
-		<change>Updated: April 10, 2020</change>
-		<change>盗我插件的中文源死🐎喽，哈哈哈哈哈。</change>
+		<change>Updated: April 17, 2020</change>
+        <change>UI improvement</change>
+        <change>Fix status bar size glitch</change>
+        <change>Support more languages :)</change>
+        <change>Network speed accuracy improvement</change>
 	</changelog>
 </package>
