@@ -365,6 +365,22 @@ Description: Allow all Shortcuts automations to be run without asking!
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Name: Truecuts
 
+Package: com.johnzaro.perfectbattery13
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Johnzaro <johnzrgnns@gmail.com>
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.johnzaro.perfectbattery13_1.0.0_iphoneos-arm.deb
+Size: 4450
+MD5sum: 197337f1541e23d9ca427522b19571bf
+SHA1: a305972a14c602abb8ffd95e33ff1b5c979f61cd
+SHA256: 6f4fed49791e9a923f95f646af9649227fdd8cb8575761afc123fc9743235d34
+Section: Tweaks
+Description: Removes Battery Icon and adds Battery percentage label for nothced iPhones
+Author: Johnzaro <johnzrgnns@gmail.com>
+Name: PerfectBattery13
+
 Package: com.poqw312.wechat
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
