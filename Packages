@@ -415,6 +415,22 @@ Description: Removes Battery Icon and adds Battery percentage label for nothced 
 Author: Johnzaro <johnzrgnns@gmail.com>
 Name: PerfectBattery13
 
+Package: com.johnzaro.perfectbattery13
+Version: 9.9.9
+Architecture: iphoneos-arm
+Maintainer: Johnzaro <johnzrgnns@gmail.com>
+Installed-Size: 56
+Depends: mobilesubstrate
+Filename: ./debs/com.johnzaro.perfectbattery13_9.9.9_iphoneos-arm.deb
+Size: 4450
+MD5sum: 9e95239920d6bd1b971b1191425f702f
+SHA1: c42d070a4dbef7fdab8cb72ca8fdcd7ab410e217
+SHA256: 6fdc9e7aba50ade4c17436fc2b8132d212aab1344671a2d610553ee5a7c0ed6b
+Section: Tweaks
+Description: Removes Battery Icon and adds Battery percentage label for nothced iPhones
+Author: Johnzaro <johnzrgnns@gmail.com>
+Name: PerfectBattery13
+
 Package: com.poqw312.wechat
 Version: 0.0.1-1+debug
 Architecture: iphoneos-arm
