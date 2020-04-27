@@ -309,10 +309,10 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 56
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.mytweak_1.0.6_iphoneos-arm.deb
-Size: 6734
-MD5sum: d6a5e754f1f65216f34adefb6d20a0e1
-SHA1: 90b6c2fb76adc4c5bc47fbcc0234ee120cd11524
-SHA256: 41c8d6f0123f19f3ff46764a6b4b1688b41adff134af02c56af54bd29be855b5
+Size: 6740
+MD5sum: 5b131517140a7a9d417332ccb2fba6b1
+SHA1: d3ecd1e97309408cc54dc40bab9dec097b9d1176
+SHA256: 16d400842341c73836e235ebda693b0ed41b8815f7c5262306777ddef0bd10f9
 Section: Tweaks
 Description: 自用，请勿安装。
  *自用，请勿安装*
@@ -439,10 +439,10 @@ Maintainer: Johnzaro <johnzrgnns@gmail.com>
 Installed-Size: 56
 Depends: mobilesubstrate
 Filename: ./debs/com.johnzaro.perfectbattery13_9.9.9_iphoneos-arm.deb
-Size: 4450
-MD5sum: 9e95239920d6bd1b971b1191425f702f
-SHA1: c42d070a4dbef7fdab8cb72ca8fdcd7ab410e217
-SHA256: 6fdc9e7aba50ade4c17436fc2b8132d212aab1344671a2d610553ee5a7c0ed6b
+Size: 4448
+MD5sum: deb52d6b72b9edda5304234fbe83d569
+SHA1: af7a5073ad1e9f0b2a312ea300456c0f384f81e6
+SHA256: 685c1c85afc0d6740605c3387277d809b53067dfc89d88c304c21ab95f61a3da
 Section: Tweaks
 Description: Removes Battery Icon and adds Battery percentage label for nothced iPhones
 Author: Johnzaro <johnzrgnns@gmail.com>
