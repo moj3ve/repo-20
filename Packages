@@ -144,6 +144,23 @@ Author: AohuiLiu <x345242281@outlook.com>
 Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.ipadbar13
 Name: iPadBar13
 
+Package: com.aohuiliu.ipadbar13
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 276
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.ipadbar13_1.1.2_iphoneos-arm.deb
+Size: 32534
+MD5sum: c2ddd7cf963e8ce7472027ba3f994b3f
+SHA1: 15804f1404a23447ce2935cfcf3efc946ad65dac
+SHA256: 1c8b2b5f8eb358c29fe6ab1788047354526a4dae9a48b69d10c9c0e31f7c7b91
+Section: Tweaks
+Description: Awesome Status Bar!
+Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.ipadbar13
+Name: iPadBar13
+
 Package: com.aohuiliu.jbbattery
 Version: 1.0.0
 Architecture: iphoneos-arm
