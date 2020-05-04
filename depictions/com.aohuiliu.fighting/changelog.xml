@@ -1,6 +1,10 @@
 <changelog>
+    <changes>
+        <version>2.0.1</version>
+        <change>加群获取解锁密码</change>
+    </changes>
 	<changes>
 		<version>2.0.0</version>
-		<change>Initial release</change>
+		<change>加群获取解锁密码</change>
 	</changes>
 </changelog>
