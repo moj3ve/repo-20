@@ -16,16 +16,16 @@ Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.doubletaplo
 Name: DoubleTapLock
 
 Package: com.aohuiliu.fighting
-Version: 2.0.1
+Version: 2.0.2
 Architecture: iphoneos-arm
 Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 216
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.aohuiliu.fighting_2.0.1_iphoneos-arm.deb
-Size: 43826
-MD5sum: 066f4858835d7530f174292585e61574
-SHA1: 24cf59d039e0fabc52d280c7b2ef91b4b00905e3
-SHA256: 786555b98ecd06c793b6e6022bd207b7a050c04ac872b76323039ed21bd08747
+Filename: ./debs/com.aohuiliu.fighting_2.0.2_iphoneos-arm.deb
+Size: 43914
+MD5sum: 5ef62826d3cb30a866a701104dccc773
+SHA1: 5571df3457372b477b052901569f6e6c90c7603f
+SHA256: bb93eb3ed97df85d306515580472277ca87dc3cfc4ebc3ed85cffa443a2d9705
 Section: Tweaks
 Description: My Tweak
 Author: AohuiLiu <x345242281@outlook.com>
