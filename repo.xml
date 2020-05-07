@@ -1,18 +1,18 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>My Twitter</name>
+			<name>Twitter</name>
 			<url>https://twitter.com/aohuiliu</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
         <link>
-            <name>My Reddit</name>
+            <name>Reddit</name>
             <url>https://www.reddit.com/user/janeDUT</url>
             <iconclass>fa fa-reddit</iconclass>
         </link>
 		<link>
-			<name>Donate via PayPal</name>
-			<url></url>
+			<name>Git hub</name>
+			<url>https://twitter.com/aohuiliu</url>
 			<iconclass>fa fa-thumbs-up</iconclass>
 		</link>
 
