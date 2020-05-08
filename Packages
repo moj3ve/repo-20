@@ -51,6 +51,24 @@ Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.fighting
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
 Name: Fighting
 
+Package: com.aohuiliu.fighting
+Version: 2.1.0
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 216
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.aohuiliu.fighting_2.1.0_iphoneos-arm.deb
+Size: 43388
+MD5sum: f2b50fbd4599f3cc8a49cce3b697373c
+SHA1: 6931a146e46d0bafc7e831d071981f1e224f748d
+SHA256: d2f6f090900c494fb549d9ef84463427d179c2b4d508a1f70eb859abe3df15ae
+Section: Tweaks
+Description: My Tweak
+Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.fighting
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Name: Fighting
+
 Package: com.aohuiliu.ipadbar13
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -231,6 +249,24 @@ Description: 开启键盘时禁用X手势操作。
  iOS13适用。
 Author: AohuiLiu <x345242281@outlook.com>
 Name: KeyBoardNoSwipe
+
+Package: com.aohuiliu.nicebattery
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 192
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.aohuiliu.nicebattery_1.0.0_iphoneos-arm.deb
+Size: 39852
+MD5sum: 85287a5978b8f6fa275617ab5b6f1b61
+SHA1: e7dce152943f99750b0b0373c1cea6c408e049e1
+SHA256: ccdb2a77f72c635da204471c6634183d636375487c3dab04c8a82cc0e9e87e2d
+Section: Tweaks
+Description: Nice Battery.
+Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.nicebattery
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Name: NiceBattery
 
 Package: com.aohuiliu.tripletaplock
 Version: 1.0.0
