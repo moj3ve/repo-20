@@ -33,6 +33,24 @@ Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.fighting
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
 Name: Fighting
 
+Package: com.aohuiliu.fighting
+Version: 2.1.1
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 216
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.aohuiliu.fighting_2.1.1_iphoneos-arm.deb
+Size: 43582
+MD5sum: e1f05cca14d6b5e4f5807029ce690240
+SHA1: 9549681a53c83b3606f94e28b3fdf94e1aee77c6
+SHA256: 153a2bf6a0c45e1a7296d5c2319dfc855ea44bbb061e9dcb45cbea36a3246ea8
+Section: Tweaks
+Description: My Tweak
+Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.fighting
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Name: Fighting
+
 Package: com.aohuiliu.ipadbar13
 Version: 1.1.2
 Architecture: iphoneos-arm
