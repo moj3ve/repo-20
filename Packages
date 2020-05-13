@@ -51,6 +51,24 @@ Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.fighting
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
 Name: Fighting
 
+Package: com.aohuiliu.fighting
+Version: 2.1.2
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 216
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.aohuiliu.fighting_2.1.2_iphoneos-arm.deb
+Size: 43464
+MD5sum: 5c4849165b9d6f94d446c7f769de6442
+SHA1: 79b85bb8afbf63b1ab1078906ac6b980b7679300
+SHA256: 52159ee0beecd430135d8f6951b339d01558a6f7e6cf052ee5c7f114490dd396
+Section: Tweaks
+Description: My Tweak
+Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.fighting
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Name: Fighting
+
 Package: com.aohuiliu.ipadbar13
 Version: 1.1.2
 Architecture: iphoneos-arm
@@ -114,6 +132,24 @@ Size: 39852
 MD5sum: 85287a5978b8f6fa275617ab5b6f1b61
 SHA1: e7dce152943f99750b0b0373c1cea6c408e049e1
 SHA256: ccdb2a77f72c635da204471c6634183d636375487c3dab04c8a82cc0e9e87e2d
+Section: Tweaks
+Description: Nice Battery.
+Author: AohuiLiu <x345242281@outlook.com>
+Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.nicebattery
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Name: NiceBattery
+
+Package: com.aohuiliu.nicebattery
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 188
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.aohuiliu.nicebattery_1.0.2_iphoneos-arm.deb
+Size: 39680
+MD5sum: d54f8c2844a6348f28402df152c3308a
+SHA1: 4c998160ab8bd416e3dc62888adbb7d72ec4514d
+SHA256: 79cc4f08120155410e296e72895cf5f6a781863872d42216065c96d32d85a235
 Section: Tweaks
 Description: Nice Battery.
 Author: AohuiLiu <x345242281@outlook.com>
