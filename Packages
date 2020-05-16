@@ -103,19 +103,36 @@ Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.nicebattery
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
 Name: NiceBattery
 
-Package: com.aohuiliu.nicesettings
+Package: com.aohuiliu.nicephotos
 Version: 1.0.0
 Architecture: iphoneos-arm
 Maintainer: AohuiLiu <x345242281@outlook.com>
-Installed-Size: 72
+Installed-Size: 120
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
-Filename: ./debs/com.aohuiliu.nicesettings_1.0.0_iphoneos-arm.deb
-Size: 10394
-MD5sum: f4ea4249ff01d8eb3611f5f74818d612
-SHA1: 02f80714360dc28498bf06368d4ba34b32618c11
-SHA256: 59d4d5e138ebf6d83e9422bd89b7707c92e097ed216689c7cbb757c89c049620
+Filename: ./debs/com.aohuiliu.nicephotos_1.0.0_iphoneos-arm.deb
+Size: 11230
+MD5sum: bc6d96a4623e4a559a3693bec1f5f610
+SHA1: 5e3bb5324cc0e3701d83cc7a538f9e3e58e8e927
+SHA256: 71628d4231c5594c1e79f978d11f6b54570670b161f35046bfa2aa4acbf59214
 Section: Tweaks
-Description: Bring cool settings.
+Description: Skip delete confirmation and Enable unlimited zoom in. Support A12
+Author: AohuiLiu <x345242281@outlook.com>
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Name: NicePhotos
+
+Package: com.aohuiliu.nicesettings
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 120
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
+Filename: ./debs/com.aohuiliu.nicesettings_1.0.1_iphoneos-arm.deb
+Size: 11190
+MD5sum: 234effc2a7cf67f0005e0e816c4a7fa1
+SHA1: 4ea762283c2e6b32fac265912d1480b692afd7be
+SHA256: 16f69ab6e8b428df311ed687d0479d2f220bc0224ad810689866b521d2bc062a
+Section: Tweaks
+Description: iPad style settings. Support A12
 Author: AohuiLiu <x345242281@outlook.com>
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
 Name: NiceSettings
