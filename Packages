@@ -1,3 +1,20 @@
+Package: com.aohuiliu.cleanwechat
+Version: 1.0.1-12+debug
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 108
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.cleanwechat_1.0.1-12+debug_iphoneos-arm.deb
+Size: 4808
+MD5sum: 30e484fa854485e0c07cbe4eb932604e
+SHA1: 73fe5a3cd1e999040148219bbef7d1b90df35abe
+SHA256: 6628b4d7532c074b87579cc7d78ecb62cd301f9ee7738b4356471c9ffab857a5
+Section: Tweaks
+Description: 给你一个干净的微信。支持A12
+Author: AohuiLiu <x345242281@outlook.com>
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Name: CleanWechat
+
 Package: com.aohuiliu.doubletaplock
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -250,38 +267,6 @@ Section: Tweaks
 Description: Allow all Shortcuts automations to be run without asking!
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 Name: Truecuts
-
-Package: com.poqw312.wechat
-Version: 0.0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: ipad_kid <ipadkid358@gmail.com>
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/com.poqw312.wechat_0.0.1-1+debug_iphoneos-arm.deb
-Size: 6446
-MD5sum: dd0c1861a5cadb8d5e5a701d06b18935
-SHA1: b756ccf8f48b1a3221ed4dfda6da5cb3e63a427e
-SHA256: b8e8bdc53c8f970f99edb2094839a21e60dd8cf5e32068b60e2ed787fce96791
-Section: Tweaks
-Description: 本补丁规则大部分来自云端
- 1.屏蔽越狱检测
- 2.屏蔽朋友圈广告
- 3.朋友圈原图可选
- 4.朋友圈30秒小视频
- 5.开启指纹/面容支付
- 6.微信钱包自定义数值
- 7.微信步数自定义数值
- 8.禁用首页下拉小程序
- 9.屏蔽朋友圈视频动态
- 10.朋友圈视频播放进度条
- 11.取消发送图片数量限制
- 12.图片发送默认勾选原图
- 13.屏蔽聊天正在输入状态
- 14.隐藏表情栏上的"设置"和"➕号"图标
- 15.开启朋友圈评论表情包(仅兼容709或更高版本)
- 16.消息防撤回(带提示)，删除好友保存聊天记录
-Author: poqw312
-Name: wechat
 
 Package: pw.ssnull.lockedlpm
 Version: 0.0.1-2+debug
