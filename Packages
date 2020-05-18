@@ -85,6 +85,23 @@ Description: 开启键盘时禁用X手势操作。
 Author: AohuiLiu <x345242281@outlook.com>
 Name: KeyBoardNoSwipe
 
+Package: com.aohuiliu.mifitnoupdate
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.mifitnoupdate_0.0.1-1+debug_iphoneos-arm.deb
+Size: 3602
+MD5sum: 50d18a045f0edabd427346a1169eb8e0
+SHA1: 00c9602cf2a7634aff17d2fad929263230f9b1d7
+SHA256: b87c468a312df47c0181d6e6c59cb52f41cf4802697ad87d00e9f6756a07314f
+Section: Tweaks
+Description: 禁止小米运动更新手环固件。支持A2
+Author: AohuiLiu <x345242281@outlook.com>
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Name: MiFitNoFirmwareUpdate
+
 Package: com.aohuiliu.nicebattery
 Version: 1.1.0
 Architecture: iphoneos-arm
