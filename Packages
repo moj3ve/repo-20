@@ -102,6 +102,23 @@ Author: AohuiLiu <x345242281@outlook.com>
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
 Name: MiFitNoFirmwareUpdate
 
+Package: com.aohuiliu.mifitnoupdate
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm
+Maintainer: AohuiLiu <x345242281@outlook.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: ./debs/com.aohuiliu.mifitnoupdate_0.0.1-2+debug_iphoneos-arm.deb
+Size: 3612
+MD5sum: 21fa148b0f46f3009ba26b69583885d1
+SHA1: c3df793d310e16c0df593665747b12627211e086
+SHA256: b948ed197aa38703b9ef27e697afe7885442cc8aab7ce255f874105f0941aef4
+Section: Tweaks
+Description: 禁止小米运动更新手环固件。支持A12
+Author: AohuiLiu <x345242281@outlook.com>
+Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
+Name: MiFitNoFirmwareUpdate
+
 Package: com.aohuiliu.nicebattery
 Version: 1.1.0
 Architecture: iphoneos-arm
