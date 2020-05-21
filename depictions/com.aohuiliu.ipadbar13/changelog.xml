@@ -1,6 +1,13 @@
 <changelog>
     
     <changes>
+        <version>1.2.1</version>
+        <change>Updated: May 21, 2020</change>
+        <change>Fix issue navigation bar icon will disappear after respiring</change>
+        <change>Custom 4G and LTE text and font size, percentage font size, carrier font size coming soon</change>
+    </changes>
+    
+    <changes>
         <version>1.2.0</version>
         <change>Updated: May 20, 2020</change>
         <change>New preferences design</change>
