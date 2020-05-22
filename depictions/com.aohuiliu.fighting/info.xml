@@ -13,11 +13,13 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>DO NOT INSTALL 请勿安装</description>
+		<description>DO NOT INSTALL
+请勿安装</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>DO NOT INSTALL 请勿安装</change>
+		<change>DO NOT INSTALL
+请勿安装</change>
 	</changelog>
 	<links></links>
 </package>
