@@ -39,10 +39,10 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 288
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
 Filename: ./debs/com.aohuiliu.fighting_2.2.1_iphoneos-arm.deb
-Size: 53076
-MD5sum: 1e60d2ae73db786b4493ed10aa6e0193
-SHA1: 28d1e6a8ef7eef49ac3e8dc9912778dbc2779532
-SHA256: c50a1691383bbe6c2a4898c9d5abe22053ee480b3256ca7d43046471aac5b1ef
+Size: 53080
+MD5sum: 719d32ceea794ad7058329ab1fcfa21a
+SHA1: e64e5c5462b1a61112109676e4de93f35739327b
+SHA256: f8bb8fdf2c2436cf969488a3c022486f8162bda29d46e81c258a872643cb2528
 Section: Tweaks
 Description: My Tweak
 Author: AohuiLiu <x345242281@outlook.com>
