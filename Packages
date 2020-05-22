@@ -33,40 +33,22 @@ Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.doubletaplo
 Name: DoubleTapLock
 
 Package: com.aohuiliu.fighting
-Version: 2.2.0
+Version: 2.2.1
 Architecture: iphoneos-arm
 Maintainer: AohuiLiu <x345242281@outlook.com>
-Installed-Size: 284
+Installed-Size: 288
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
-Filename: ./debs/com.aohuiliu.fighting_2.2.0_iphoneos-arm.deb
-Size: 48306
-MD5sum: af665a6994cb3856b14157dc15cb7a01
-SHA1: 39098733909431511e1a8e3d77dda6d8102a5452
-SHA256: ce296caa8eb4694c06bf0b631ea37b505b18a6a9066f20108a687a690af587e9
+Filename: ./debs/com.aohuiliu.fighting_2.2.1_iphoneos-arm.deb
+Size: 53076
+MD5sum: 1e60d2ae73db786b4493ed10aa6e0193
+SHA1: 28d1e6a8ef7eef49ac3e8dc9912778dbc2779532
+SHA256: c50a1691383bbe6c2a4898c9d5abe22053ee480b3256ca7d43046471aac5b1ef
 Section: Tweaks
 Description: My Tweak
 Author: AohuiLiu <x345242281@outlook.com>
 Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.fighting
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
 Name: Fighting
-
-Package: com.aohuiliu.ipadbar13
-Version: 1.2.1
-Architecture: iphoneos-arm
-Maintainer: AohuiLiu <x345242281@outlook.com>
-Installed-Size: 348
-Depends: mobilesubstrate
-Filename: ./debs/com.aohuiliu.ipadbar13_1.2.1_iphoneos-arm.deb
-Size: 54770
-MD5sum: 50f21f8421d62ba17fb997f2d49c5c32
-SHA1: f618d99f197a3c76b0d8f9ea6c77a8e356c840fa
-SHA256: 7cebc569e472dbc90b66bfb346889569bb85e0d3fb489c271c007fd7febfd538
-Section: Tweaks
-Description: Awesome Status Bar!
-Author: AohuiLiu, NoisyFlake <x345242281@outlook.com>
-Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.ipadbar13
-Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.ipadbar13/icon.png
-Name: iPadBar13
 
 Package: com.aohuiliu.ipadbar13
 Version: 1.2.2
@@ -154,24 +136,6 @@ Description: 禁止小米运动更新手环固件。支持A12
 Author: AohuiLiu <x345242281@outlook.com>
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
 Name: MiFitNoFirmwareUpdate
-
-Package: com.aohuiliu.nicebattery
-Version: 1.1.0
-Architecture: iphoneos-arm
-Maintainer: AohuiLiu <x345242281@outlook.com>
-Installed-Size: 188
-Depends: mobilesubstrate, preferenceloader, firmware (>= 13)
-Filename: ./debs/com.aohuiliu.nicebattery_1.1.0_iphoneos-arm.deb
-Size: 39690
-MD5sum: 7ae35bb80ca22b42dff7cd5edcaaf21e
-SHA1: 8bfd47701765f0815109176ef048943e849a5b54
-SHA256: 2e9904226a7096bceeb0cf56a834a4178107a2cd951491e5556ef2950d9b07e6
-Section: Tweaks
-Description: Bring cool battery.
-Author: AohuiLiu <x345242281@outlook.com>
-Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.nicebattery
-Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
-Name: NiceBattery
 
 Package: com.aohuiliu.nicephotos
 Version: 1.0.0
