@@ -93,10 +93,10 @@ Maintainer: AohuiLiu <x345242281@outlook.com>
 Installed-Size: 392
 Depends: mobilesubstrate
 Filename: ./debs/com.aohuiliu.ipadbar13_1.2.3_iphoneos-arm.deb
-Size: 87648
-MD5sum: b524253afd608d0c4a07b0958176e58b
-SHA1: a307e5b7f052287eae3c0b1b37932e9bcb750de3
-SHA256: 0fedbc0fcc316e7fb4d98b8e1a606a7396a271102660ed3f7d7193aa8d7d6c1d
+Size: 87564
+MD5sum: 15508bdd1ed609b0c93411bb943b9588
+SHA1: 142b87b287c90b708e0193429e4a359555faf1be
+SHA256: c7a3ffbcd4216449bef5b549712f401bd550685501389c39923ff8e155c146b6
 Section: Tweaks
 Description: Awesome Status Bar!
 Author: AohuiLiu, NoisyFlake <x345242281@outlook.com>
