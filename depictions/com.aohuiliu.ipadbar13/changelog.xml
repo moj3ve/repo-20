@@ -1,4 +1,12 @@
 <changelog>
+    <changes>
+        <version>1.2.3</version>
+        <change>Updated: May 26, 2020</change>
+        <change>Fix carrier and percentage huge font issue</change>
+        <change>Custom 4G and LTE text enabled</change>
+        <change>Add credits</change>
+        <change>Update screenshots</change>
+    </changes>
     
     <changes>
         <version>1.2.1</version>

@@ -1,7 +1,7 @@
 <package>
 	<id>com.aohuiliu.ipadbar13</id>
 	<name>iPadBar13</name>
-    <version>1.2.1</version>
+    <version>1.2.3</version>
 	<compatibility>
 		<firmware>
             <miniOS>13.0</miniOS>
@@ -28,35 +28,18 @@
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Custom Time Format</description>
-			<image>format.jpeg</image>
+			<description></description>
+            <image>1.JPG</image>
 		</screenshot>
 
-		<screenshot>
-      <description>Custom Carrier</description>
-      <image>carrier.jpeg</image>
-    </screenshot>
-
-		<screenshot>
-    	<description>Network Speed</description>
-      <image>speed.jpeg</image>
-    </screenshot>
-
-		<screenshot>
-      <description>Settings</description>
-      <image>settings.png</image>
-    </screenshot>
-
-		<screenshot>
-    	<description>Item Hiding</description>
-      <image>item.png</image>
-    </screenshot>
 
 	</screenshots>
 	<changelog>
-        <version>1.2.1</version>
-        <change>Updated: May 21, 2020</change>
-        <change>Fix issue navigation bar icon will disappear after respiring</change>
-        <change>Custom 4G and LTE text and font size, percentage font size, carrier font size coming soon</change>
+        <version>1.2.3</version>
+        <change>Updated: May 26, 2020</change>
+        <change>Fix carrier and percentage huge font issue</change>
+        <change>Custom 4G and LTE text enabled</change>
+        <change>Update screenshots</change>
+        <change>Add credits</change>
 	</changelog>
 </package>
