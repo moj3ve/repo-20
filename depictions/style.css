@@ -17,11 +17,11 @@ body {
     list-style-type: none;
     padding: 17px 15px;
     display: block;
-    color: #4f89bb !important;
+    color: #2749e2 !important;
     text-align: left;
 }
 .link-item:hover {
-    border: 3px solid #ddd;
+    border: 3px solid rgb(219, 14, 14);
     background-color: #f5f5f5;
 }
 
