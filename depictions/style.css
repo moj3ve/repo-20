@@ -14,12 +14,11 @@ body {
     pointer-events: none;
 }
 .link-item {
-    list-style-type: none;
+    list-style-type: disc;
     padding: 17px 15px;
     display: block;
-    color: #ffffff !important;
-    background-color: #007bff;
-    text-align: center;
+    color: #007bff !important;
+    text-align: left;
 }
 .link-item:hover {
     border: 3px solid #ddd;
@@ -35,7 +34,7 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
 }
 
 .fa {
-    font-size: 16px;
+    font-size: 80px;
     margin-left: 5px;
     margin-right: 10px;
 }
