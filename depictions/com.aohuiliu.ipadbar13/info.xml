@@ -1,6 +1,6 @@
 <package>
 	<id>com.aohuiliu.ipadbar13</id>
-	<name>iPadBar13</name>
+	<name>Move to janedut.github.io</name>
     <version>1.2.3</version>
 	<compatibility>
 		<firmware>
@@ -11,16 +11,11 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Awesome Status Bar!</shortDescription>
+	<shortDescription>Move to janedut.github.io</shortDescription>
 	<descriptionlist>
-		<description>iPad StatusBar with cool customization.&lt;br/&gt;
-			Keep all iPadStatusBar features.&lt;br/&gt;
-			Support iOS13.0-13.4.1 and A12 devices.</description>
-		<description>Customization for time format, network speed and carrier.&lt;br/&gt;
-			View screenshots for more details.</description>
-		<description>Special thanks:&lt;br/&gt;
-			NoisyFlake&lt;br/&gt;
-			My lovely testers</description>
+		<description>Move to janedut.github.io</description>
+		<description>Move to janedut.github.io</description>
+		<description>Move to janedut.github.io</description>
 		<description><![CDATA[
 		If you have any problems or cool idea, please contact me.
 		]]>
@@ -36,10 +31,10 @@
 	</screenshots>
 	<changelog>
         <version>1.2.3</version>
-        <change>Updated: May 26, 2020</change>
-        <change>Fix carrier and percentage huge font issue</change>
-        <change>Custom 4G and LTE text enabled</change>
-        <change>Update screenshots</change>
-        <change>Add credits</change>
+        <change>Move to janedut.github.io</change>
+        <change>Move to janedut.github.io</change>
+        <change>Move to janedut.github.io</change>
+        <change>Move to janedut.github.io</change>
+        <change>Move to janedut.github.io</change>
 	</changelog>
 </package>

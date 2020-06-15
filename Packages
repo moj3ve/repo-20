@@ -13,7 +13,7 @@ Section: Tweaks
 Description: 给你一个干净的微信。支持A12
 Author: AohuiLiu <x345242281@outlook.com>
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
-Name: CleanWechat
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.doubletaplock
 Version: 1.0.0
@@ -30,7 +30,7 @@ Section: Tweaks
 Description: Tap 2 times to lock in HomeScreen.
 Author: AohuiLiu <x345242281@outlook.com>
 Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.doubletaplock
-Name: DoubleTapLock
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.ipadbar13
 Version: 1.2.3
@@ -48,7 +48,7 @@ Description: Awesome Status Bar!
 Author: AohuiLiu, NoisyFlake <x345242281@outlook.com>
 Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.ipadbar13
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.ipadbar13/icon.png
-Name: iPadBar13
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.jbbattery
 Version: 1.0.0
@@ -65,7 +65,7 @@ Section: Tweaks
 Description: 把电池变成JB！ Turn battery to **.
 Author: AohuiLiu <x345242281@outlook.com>
 Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.jbbattery
-Name: JbBattery
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.keyboardnoswipe
 Version: 0.0.1
@@ -83,7 +83,7 @@ Description: 开启键盘时禁用X手势操作。
  开启键盘时禁用X手势操作。
  iOS13适用。
 Author: AohuiLiu <x345242281@outlook.com>
-Name: KeyBoardNoSwipe
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.mifitnoupdate
 Version: 0.0.1-1+debug
@@ -100,7 +100,7 @@ Section: Tweaks
 Description: 禁止小米运动更新手环固件。支持A2
 Author: AohuiLiu <x345242281@outlook.com>
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
-Name: MiFitNoFirmwareUpdate
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.mifitnoupdate
 Version: 0.0.1-2+debug
@@ -117,7 +117,7 @@ Section: Tweaks
 Description: 禁止小米运动更新手环固件。支持A12
 Author: AohuiLiu <x345242281@outlook.com>
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
-Name: MiFitNoFirmwareUpdate
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.nicephotos
 Version: 1.0.0
@@ -134,7 +134,7 @@ Section: Tweaks
 Description: Skip delete confirmation and Enable unlimited zoom in. Support A12
 Author: AohuiLiu <x345242281@outlook.com>
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
-Name: NicePhotos
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.nicesettings
 Version: 1.0.1
@@ -151,7 +151,7 @@ Section: Tweaks
 Description: iPad style settings. Support A12
 Author: AohuiLiu <x345242281@outlook.com>
 Icon: https://janedut.github.io/repo/depictions/com.aohuiliu.fighting/icon.png
-Name: NiceSettings
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.tripletaplock
 Version: 1.0.0
@@ -168,7 +168,7 @@ Section: Tweaks
 Description: Tap 3 times to lock in HomeScreen.
 Author: AohuiLiu <x345242281@outlook.com>
 Depiction: https://janedut.github.io/repo/depictions/?p=com.aohuiliu.tripletaplock
-Name: TripleTapLock
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.xgesture13
 Version: 1.0.0
@@ -191,7 +191,7 @@ Description: X手势⚡️
  代码优化
  轻量不耗电
 Author: AohuiLiu <x345242281@outlook.com>
-Name: XGesture13
+Name: Move to janedut.github.io
 
 Package: com.aohuiliu.xgesture13
 Version: 1.0.1
@@ -215,7 +215,7 @@ Description: X手势⚡️
  代码优化
  轻量不耗电
 Author: AohuiLiu <x345242281@outlook.com>
-Name: XGesture13
+Name: Move to janedut.github.io
 
 Package: com.ethanrdoesmc.truecuts
 Version: 1.0.0
@@ -231,8 +231,7 @@ SHA256: 7a0d726857fe175aa58317f852b09364b8df08c0a1612f765d3b576c99b38e24
 Section: Tweaks
 Description: Allow all Shortcuts automations to be run without asking!
 Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
-Name: Truecuts
-
+Name: Move to janedut.github.io
 Package: pw.ssnull.lockedlpm
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
@@ -247,5 +246,5 @@ SHA256: 6f2f9b215f31102708f10e0fe7ea9a56ae81e65de36a77966390e29439eb2aaa
 Section: Tweaks
 Description: Enable low power mode when device is locked automatically
 Author: Brian Choi <brian9206@hotmail.com>
-Name: LockedLPM
+Name: Move to janedut.github.io
 
